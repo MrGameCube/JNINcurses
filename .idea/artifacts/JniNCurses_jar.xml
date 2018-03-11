@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JniNCurses:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JniNCurses_jar</output-path>
+    <root id="archive" name="JniNCurses.jar">
+      <element id="module-output" name="JniNCurses" />
+    </root>
+  </artifact>
+</component>
